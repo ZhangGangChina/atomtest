@@ -116,14 +116,21 @@
 - atomtest
   - README.md
   - img
-  - files
+  - folder
   - subproject
     - readme.md
     - img
-    - fileware
+    - folder
     - other files
 
 ## 6.阅读工具
 
 - 建议使用typora.
 
+
+## 7.文件清单与权限
+
+- atomtest
+  - 迁移阿里云（本地保存不上传）
+  - README.md(上传)
+  - 其它
