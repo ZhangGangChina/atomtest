@@ -76,7 +76,7 @@
 
 - 使用认证方案:https，不支持ssh
 
-- 克隆github工程，注意选择分支与客户端要一致，如master：master是正确设置；如orign-master:master,这样设置是错误的。
+- 克隆github工程，注意选择分支与客户端要一致，如服务器端是master；客户端应为origin/master:master
 
 - 注意：如使用ssh方案克隆工程，会提示不支持。
 
@@ -105,13 +105,25 @@
 ## 4.使用流程
 
 - github创建仓库，并设置帐户读写权限；
-
-- 复制https的创库链接
-
+- 复制https的仓库链接
 - 使用git客户端克隆仓库
-
 - 使用工具创建、编辑文件
+- 使用工具向github提交修改和创建文件，可以是atom,或git extensions，或eclipse。
 
-- 使用工具向github提交修改和创建文件，可以是atom,或git extensions。
 
-  ​
+## 5.仓库的目录结构
+
+- atomtest
+  - README.md
+  - img
+  - files
+  - subproject
+    - readme.md
+    - img
+    - fileware
+    - other files
+
+## 6.阅读工具
+
+- 建议使用typora.
+
