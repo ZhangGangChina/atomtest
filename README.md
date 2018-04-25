@@ -1,3 +1,7 @@
+---
+
+---
+
 # atomtest
 [TOC]
 
@@ -22,4 +26,20 @@
 
 [1]: http://www.baidu.com	"baidu"
 [2]: http://www.sina.com	"sina"
+
+
+
+<!--如果写代码，可以在这里了-->
+
+## 我的java写在这里
+
+
+
+[^1]: 这里吧
+
+这个是什么
+
+`代码`
+
+
 
