@@ -134,3 +134,8 @@
   - 迁移阿里云（本地保存不上传）
   - README.md(上传)
   - 其它
+
+## 8.注意事项
+
+- github采用https模式，当前github.com不支持ssh免密模式
+
